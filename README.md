@@ -1,2 +1,2 @@
 # scratch-pad
-A zara scrach-pad
+A zara scratch-pad
